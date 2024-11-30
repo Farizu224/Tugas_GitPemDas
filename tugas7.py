@@ -69,3 +69,5 @@ for i, j in data_panen.items():
 
 print("Hello world")
 print("Baru")
+
+print("Fariz Alfaritzi")
