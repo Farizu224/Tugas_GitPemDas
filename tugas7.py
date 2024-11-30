@@ -70,4 +70,8 @@ for i, j in data_panen.items():
 print("Hello world")
 print("Baru")
 
+<<<<<<< HEAD
 print("Farizu")
+=======
+print("Fariz Alfaritzi")
+>>>>>>> baru
