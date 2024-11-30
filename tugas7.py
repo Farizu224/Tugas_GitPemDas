@@ -68,3 +68,4 @@ for i, j in data_panen.items():
         print(f"Lokasi {j['nama_lokasi']} memiliki hasil panen padi {j['hasil_panen']['padi']} dan jagung {j['hasil_panen']['jagung']} sehingga dalam kondisi baik")
 
 print("Hello world")
+print("Baru")
